@@ -20,18 +20,6 @@
 
     ],
     "blocks": {
-      "9537345080411485756": {
-        "type": "shopify:\/\/apps\/product-review-myappgurus\/blocks\/Collection_star\/0cf5caa0-e138-46b8-999b-520d16633e4c",
-        "disabled": false,
-        "settings": {
-          "collection_target_class": "",
-          "hide_name": false,
-          "hide_email": false,
-          "hide_title": false,
-          "hide_description": false,
-          "hide_image": false
-        }
-      },
       "14060646107696862457": {
         "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
@@ -49,6 +37,18 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
+        }
+      },
+      "9537345080411485756": {
+        "type": "shopify:\/\/apps\/product-review-myappgurus\/blocks\/Collection_star\/0cf5caa0-e138-46b8-999b-520d16633e4c",
+        "disabled": true,
+        "settings": {
+          "collection_target_class": "",
+          "hide_name": false,
+          "hide_email": false,
+          "hide_title": false,
+          "hide_description": false,
+          "hide_image": false
         }
       }
     }
